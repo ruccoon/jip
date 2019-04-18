@@ -1,0 +1,22 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Jip.chm
+Contents file=Table of Contents.hhc
+Default topic=homePage.html
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x1009 English (Canada)
+
+
+[FILES]
+homePage.html
+inpatientPage.html
+interface.html
+medicationPage.html
+patientPage.html
+surgicalPage.html
+welcome.html
+
+[INFOTYPES]
+

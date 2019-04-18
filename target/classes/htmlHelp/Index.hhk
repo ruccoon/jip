@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="inpatient">
+		<param name="Name" value="Jip help - inpatient">
+		<param name="Local" value="inpatientPage.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="patient">
+		<param name="Name" value="Jip help - patient">
+		<param name="Local" value="patientPage.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="surgical">
+		<param name="Name" value="Jip help - surgical">
+		<param name="Local" value="surgicalPage.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="medication">
+		<param name="Name" value="Jip help - medication">
+		<param name="Local" value="medicationPage.html">
+		</OBJECT>
+</UL>
+</BODY></HTML>

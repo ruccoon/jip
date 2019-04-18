@@ -1,0 +1,9 @@
+mlog
+mtarget/classes/com/cejv456/jip
+mtarget/classes/com/cejv456/jip/business
+mtarget/classes/com/cejv456/jip/dao
+mtarget/classes/com/cejv456/jip/data
+mtarget/classes/com/cejv456/jip/model
+mtarget/classes/com/cejv456/jip/presentation
+mtarget/classes/com/cejv456/jip/services
+mtarget/classes/com/cejv456/jip/util
